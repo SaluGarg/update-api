@@ -46,6 +46,13 @@
   "jp.co.medialogic.usbmounter": {
     "version_code": 95,
     "version_name": "2.01.010"
+    
+  },
+
+  "com.apkcombo.app": {
+    "check_interval": 24,
+    "version_code": 45,
+    "version_name": "4.3"
   },
 
   "com.x.webshuttle": {
@@ -56,6 +63,12 @@
   "com.appplanex.dnschanger": {
     "version_code": 64,
     "version_name": "3.0.0"
+  },
+
+  "com.hexamob.drivers": {
+    "check_interval": 24,
+    "version_code": 411,
+    "version_name": "4.1.1"
   },
 
   "com.akira.material": {
