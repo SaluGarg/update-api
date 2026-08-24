@@ -60,6 +60,12 @@
     "version_name": "3.8.1"
   },
 
+  "com.king.moja": {
+    "check_interval": 24,
+    "version_code": 308,
+    "version_name": "9.8"
+  },
+
   "com.appplanex.dnschanger": {
     "version_code": 64,
     "version_name": "3.0.0"
