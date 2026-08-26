@@ -46,6 +46,12 @@
   "jp.co.medialogic.usbmounter": {
     "version_code": 95,
     "version_name": "2.01.010"
+  },
+
+  "net.upx.proxy.browser": {
+    "check_interval": 48,
+    "version_code": 198,
+    "version_name": "138.0.7204.180"
     
   },
 
