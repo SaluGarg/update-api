@@ -61,6 +61,16 @@
     "version_name": "4.3"
   },
 
+  "netshare.wifihotspot": {
+    "version_code": 53,
+    "version_name": "53-rm"
+  },
+
+  "kha.prog.usbhotspot": {
+    "version_code": 7,
+    "version_name": "1.7"
+  },
+
   "com.x.webshuttle": {
     "version_code": 716,
     "version_name": "3.8.2"
@@ -129,8 +139,8 @@
   },
 
   "com.amazon.minitv.android.app": {
-    "version_code": 50110,
-    "version_name": "2.0.1.300"
+    "version_code": 50310,
+    "version_name": "2.0.3.300"
   },
 
   "com.beta9dev.imagedownloader": {
@@ -174,8 +184,8 @@
   },
 
   "com.shicichaxun.video": {
-    "version_code": 49,
-    "version_name": "1.3.26"
+    "version_code": 50,
+    "version_name": "1.3.27"
   },
 
   "com.tester.wpswpatester": {
@@ -205,8 +215,8 @@
   },
 
   "com.free.vpn.super.hotspot.open": {
-    "version_code": 23101,
-    "version_name": "2.31.1"
+    "version_code": 23105,
+    "version_name": "2.31.5"
   },
 
   "com.giamping.v2rayex": {
