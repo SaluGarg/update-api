@@ -48,6 +48,11 @@
     "version_name": "2.01.010"
   },
 
+  "com.skyjos.apps.fileexplorerfree": {
+    "version_code": 14521,
+    "version_name": "14.5.2"
+  },
+
   "net.upx.proxy.browser": {
     "check_interval": 48,
     "version_code": 198,
@@ -125,8 +130,8 @@
   },
 
   "com.salt.music": {
-    "version_code": 2026090201,
-    "version_name": "12.3.1-play"
+    "version_code": 2026090601,
+    "version_name": "12.3.2-play"
   },
 
   "jp.ne.hardyinfinity.bluelightfilter.free": {
@@ -246,8 +251,8 @@
   },
 
   "kha.prog.mikrotik": {
-    "version_code": 280,
-    "version_name": "280"
+    "version_code": 281,
+    "version_name": "281"
   },
 
   "com.accspace.dapp": {
@@ -307,8 +312,8 @@
   },
 
   "com.codex.torrentx": {
-    "version_code": 50,
-    "version_name": "1.2.0"
+    "version_code": 52,
+    "version_name": "1.2.2"
   },
 
   "com.zerone.mood": {
