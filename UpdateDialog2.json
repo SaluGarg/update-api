@@ -53,15 +53,35 @@
     "version_name": "14.5.2"
   },
 
+  "videopalyer.hd.video.music.player": {
+    "version_code": 65,
+    "version_name": "1.6.5"
+  },
+
+  "com.burakgon.dnschanger": {
+    "version_code": 1338,
+    "version_name": "1338-5r"
+  },
+
   "net.upx.proxy.browser": {
     "check_interval": 48,
     "version_code": 198,
     "version_name": "138.0.7204.180"
   },
 
+  "studio.muggle.chatboost": {
+    "version_code": 300500241,
+    "version_name": "3.33.0"
+  },
+
   "com.pengyou.videodownloader": {
     "version_code": 148,
     "version_name": "1.2.1"
+  },
+
+  "com.burakgon.netoptimizer": {
+    "version_code": 1393,
+    "version_name": "1393-2r"
     
   },
 
@@ -97,6 +117,11 @@
     "version_name": "10.13.5"
   },
 
+  "com.atolphadev.quikshort": {
+    "version_code": 72,
+    "version_name": "1.10.0"
+  },
+
   "com.king.moja": {
     "check_interval": 24,
     "version_code": 309,
@@ -126,7 +151,7 @@
 
   "app.namso_gen.spacehowen": {
     "version_code": 2147483647,
-    "version_name": "11.18"
+    "version_name": "11.20"
   },
 
   "com.salt.music": {
@@ -231,8 +256,8 @@
   },
 
   "com.free.vpn.super.hotspot.open": {
-    "version_code": 23105,
-    "version_name": "2.31.5"
+    "version_code": 23200,
+    "version_name": "2.32.0"
   },
 
   "com.giamping.v2rayex": {
@@ -312,8 +337,8 @@
   },
 
   "com.codex.torrentx": {
-    "version_code": 52,
-    "version_name": "1.2.2"
+    "version_code": 56,
+    "version_name": "1.2.6"
   },
 
   "com.zerone.mood": {
@@ -428,7 +453,7 @@
   },
 
   "app.ninjavpn.android": {
-    "version_code": 44,
-    "version_name": "1.4.7"
+    "version_code": 45,
+    "version_name": "1.4.8"
   }
 }
