@@ -520,5 +520,11 @@
   "com.video.videoplyer.axplayer": {
     "version_code": 260906410,
     "version_name": "2026.9.12"
+  },
+
+  "com.joeykrim.rootcheck": {
+    "check_interval": 24,
+    "version_code": 211,
+    "version_name": "6.5.12"
   }
 }
