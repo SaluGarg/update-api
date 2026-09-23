@@ -271,8 +271,8 @@
   },
 
   "com.free.vpn.super.hotspot.open": {
-    "version_code": 23200,
-    "version_name": "2.32.0"
+    "version_code": 23300,
+    "version_name": "2.33.0"
   },
 
   "com.giamping.v2rayex": {
@@ -337,8 +337,8 @@
   },
 
   "by.green.tuber": {
-    "version_code": 148,
-    "version_name": "0.1.9.9"
+    "version_code": 149,
+    "version_name": "0.2.0.0"
   },
 
   "com.jannatott.app": {
@@ -510,5 +510,15 @@
   "com.project100pi.videoplayer.video.player": {
     "version_code": 23200,
     "version_name": "2.3.2.0_release_1"
+  },
+
+  "com.fly.web.smart.browser": {
+    "version_code": 10202001,
+    "version_name": "2.2.1"
+  },
+
+  "com.video.videoplyer.axplayer": {
+    "version_code": 260906410,
+    "version_name": "2026.9.12"
   }
 }
