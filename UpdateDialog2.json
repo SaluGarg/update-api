@@ -80,8 +80,8 @@
   },
 
   "studio.muggle.chatboost": {
-    "version_code": 300500241,
-    "version_name": "3.33.0"
+    "version_code": 300500242,
+    "version_name": "3.34.1"
   },
 
   "com.pengyou.videodownloader": {
@@ -210,8 +210,8 @@
   },
 
   "net.west_hino.shortcut_plus": {
-    "version_code": 123,
-    "version_name": "12.3"
+    "version_code": 124,
+    "version_name": "12.4"
   },
 
   "dev.hexasoftware.sshVpnClient": {
@@ -493,8 +493,8 @@
   },
 
   "com.stcodesapp.text2speech": {
-    "version_code": 110,
-    "version_name": "3.0.7"
+    "version_code": 112,
+    "version_name": "3.0.9"
   },
 
   "ink.trantor.coneplayer.gp": {
@@ -526,5 +526,15 @@
     "check_interval": 24,
     "version_code": 211,
     "version_name": "6.5.12"
+  },
+
+  "io.android.apkconverter": {
+    "version_code": 34,
+    "version_name": "1.0"
+  },
+
+  "io.android.xapkextractor": {
+    "version_code": 8,
+    "version_name": "1.0"
   }
 }
