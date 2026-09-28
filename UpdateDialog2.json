@@ -64,8 +64,8 @@
   },
 
   "video.player.videoplayer": {
-    "version_code": 291000,
-    "version_name": "2.9.1"
+    "version_code": 292000,
+    "version_name": "2.9.2"
   },
 
   "com.burakgon.dnschanger": {
@@ -417,8 +417,8 @@
   },
 
   "net.podslink": {
-    "version_code": 87,
-    "version_name": "1.4.0"
+    "version_code": 89,
+    "version_name": "1.4.2"
   },
 
   "kika.emoji.keyboard.teclados.clavier": {
