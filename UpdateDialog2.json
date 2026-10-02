@@ -166,7 +166,7 @@
 
   "app.namso_gen.spacehowen": {
     "version_code": 2147483647,
-    "version_name": "11.20"
+    "version_name": "11.23"
   },
 
   "com.salt.music": {
@@ -276,8 +276,8 @@
   },
 
   "com.giamping.v2rayex": {
-    "version_code": 20260912,
-    "version_name": "20260912"
+    "version_code": 20261001,
+    "version_name": "20261001"
   },
 
   "com.dajiu.stay": {
@@ -367,8 +367,8 @@
   },
 
   "com.giamping.socks5": {
-    "version_code": 20260912,
-    "version_name": "20260912"
+    "version_code": 20261001,
+    "version_name": "20261001"
   },
 
   "com.giamping.gpvpn": {
@@ -407,8 +407,8 @@
   },
 
   "com.prismtree.sponge": {
-    "version_code": 55,
-    "version_name": "2.8.0"
+    "version_code": 56,
+    "version_name": "2.9.0"
   },
 
   "com.multiapp.morespace.app": {
