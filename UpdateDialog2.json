@@ -546,5 +546,10 @@
   "io.android.xapkextractor": {
     "version_code": 10,
     "version_name": "1.0"
+  },
+
+  "com.lga775drm.app": {
+    "version_code": 422,
+    "version_name": "2.2"
   }
 }
