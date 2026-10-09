@@ -38,6 +38,12 @@
     "version_name": "3.54"
   },
 
+  "com.example.testing": {
+    "check_interval": 0,
+    "version_code": 311,
+    "version_name": "10.1"
+  },
+
   "com.mp4mp3": {
     "version_code": 489,
     "version_name": "4.8.9"
